@@ -1,0 +1,6 @@
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\MuliThreadDatabaseOperator\MuliThreadDatabaseOperator\obj\Debug\MultiThreadDatabaseOperator.csprojResolveAssemblyReference.cache
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\MuliThreadDatabaseOperator\MuliThreadDatabaseOperator\bin\Debug\MuliThreadDatabaseOperator.exe
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\MuliThreadDatabaseOperator\MuliThreadDatabaseOperator\bin\Debug\MuliThreadDatabaseOperator.pdb
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\MuliThreadDatabaseOperator\MuliThreadDatabaseOperator\obj\Debug\MuliThreadDatabaseOperator.exe
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\MuliThreadDatabaseOperator\MuliThreadDatabaseOperator\obj\Debug\MuliThreadDatabaseOperator.pdb
+C:\Users\Amaterasu\Desktop\Ogarnianie\Ćwiczenia\MuliThreadDatabaseOperator\MuliThreadDatabaseOperator\bin\Debug\MySql.Data.dll
